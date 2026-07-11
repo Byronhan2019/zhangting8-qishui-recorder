@@ -1,0 +1,26 @@
+﻿# 只发布二进制，避免误传源码/密钥
+*.py
+*.pyc
+__pycache__/
+.env
+.env.*
+*.db
+*.sqlite
+*.log
+*.bak*
+*.spec
+build/
+dist/
+installer_output/
+server/
+server_backups/
+downloads/
+node_modules/
+.python*/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+releases/
+
