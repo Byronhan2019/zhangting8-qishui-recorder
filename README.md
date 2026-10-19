@@ -57,7 +57,6 @@ A: v1.1.7 版本已经修复此问题，请下载最新版本覆盖安装即可�
 | 系统 | 安装包 |
 | --- | --- |
 | Windows 10 / 11 | `zhangting8_qishui_vX.Y.Z_win10_win11_installer.exe` |
-| Windows 7 | `zhangting8_qishui_vX.Y.Z_win7_installer.exe` |
 
 也可以通过官网多镜像下载：<https://www.zhangting8.com/download>（百度网盘、迅雷、夸克、UC 网盘、蓝奏云、GitHub Releases）。
 
